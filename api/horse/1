@@ -24,6 +24,6 @@
         ], 
         "description": "Block Horse", 
         "external_url": "https://blockhorses.github.io/BlockHorses", 
-        "image": "https://blockhorses.github.io/BlockHorses/api/horse/1.svg", 
+        "image": "https://github.com/eme345/testeme/blob/master/api/horse/1.svg", 
         "name": "White Horse"
       }
