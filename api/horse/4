@@ -1,0 +1,29 @@
+
+    {
+        "attributes": [
+          {
+            "trait_type": "color", 
+            "value": "DarkBlue"
+          }, 
+          {
+            "trait_type": "eyes", 
+            "value": "Blue"
+          },
+          {
+            "trait_type": "mane", 
+            "value": "DarkSlateGrey"
+          },
+          {
+            "trait_type": "tail", 
+            "value": "DarkSlateGrey"
+          },
+          {
+            "trait_type": "shoes", 
+            "value": "Black"
+          }
+        ], 
+        "description": "Block Horse", 
+        "external_url": "https://blockhorses.github.io/BlockHorses", 
+        "image": "https://blockhorses.github.io/BlockHorses/api/horse/4.svg", 
+        "name": "DarkBlue Horse"
+      }
